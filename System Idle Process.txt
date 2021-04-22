@@ -1,0 +1,146 @@
+﻿Process	CPU	Private Bytes	Working Set	PID	Description	Company Name
+System Idle Process	91.79	0 K	24 K	0		
+System	0.06	176 K	2,244 K	4		
+ Interrupts	0.95	0 K	0 K	n/a	Hardware Interrupts and DPCs	
+ smss.exe		744 K	1,420 K	372	Windows Session Manager	Microsoft Corporation
+csrss.exe	< 0.01	3,628 K	6,324 K	544	Client Server Runtime Process	Microsoft Corporation
+ conhost.exe	< 0.01	2,096 K	4,164 K	16144	Console Window Host	Microsoft Corporation
+wininit.exe		2,076 K	5,168 K	604	Windows Start-Up Application	Microsoft Corporation
+ services.exe	0.13	10,284 K	17,756 K	668	Services and Controller app	Microsoft Corporation
+  svchost.exe	0.01	6,728 K	12,436 K	848	Host Process for Windows Services	Microsoft Corporation
+   WSCommCntr4.exe	< 0.01	40,348 K	50,756 K	10728	Autodesk InfoCenter	Autodesk, Inc.
+   iexplore.exe	< 0.01	22,008 K	37,344 K	8884	Internet Explorer	Microsoft Corporation
+    iexplore.exe	0.01	36,176 K	34,344 K	13520	Internet Explorer	Microsoft Corporation
+   UcMapi.exe	0.01	69,824 K	86,192 K	6904	Skype for Business	Microsoft Corporation
+   lynchtmlconv.exe	< 0.01	63,288 K	68,028 K	14424	Microsoft Lync	Microsoft Corporation
+   LibWrapper30.exe		3,112 K	6,992 K	10460	External library wrapper	Autodesk, Inc.
+   WmiPrvSE.exe		4,148 K	8,344 K	20440	WMI Provider Host	Microsoft Corporation
+  CylanceSvc.exe	< 0.01	540,256 K	85,264 K	912	Cylance Native Agent	Cylance, Inc.
+  nvvsvc.exe		4,148 K	9,488 K	1048	NVIDIA Driver Helper Service, Version 350.12	NVIDIA Corporation
+   nvxdsync.exe		12,664 K	25,512 K	1748	NVIDIA User Experience Driver Component	NVIDIA Corporation
+   nvvsvc.exe	< 0.01	7,304 K	15,940 K	1760	NVIDIA Driver Helper Service, Version 350.12	NVIDIA Corporation
+  nvSCPAPISvr.exe		3,048 K	6,576 K	1072	Stereo Vision Control Panel API Server	NVIDIA Corporation
+  svchost.exe		14,476 K	18,612 K	1120	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.01	25,896 K	24,060 K	1248	Host Process for Windows Services	Microsoft Corporation
+   audiodg.exe	0.34	22,180 K	22,588 K	15520	Windows Audio Device Graph Isolation 	Microsoft Corporation
+  svchost.exe		9,904 K	18,576 K	1308	Host Process for Windows Services	Microsoft Corporation
+   dwm.exe	0.51	44,936 K	133,912 K	3688	Desktop Window Manager	Microsoft Corporation
+   wisptis.exe	0.09	4,504 K	10,552 K	12376	Microsoft Pen and Touch Input Component	Microsoft Corporation
+   WUDFHost.exe		2,944 K	7,608 K	11792	Windows Driver Foundation - User-mode Driver Framework Host Process	Microsoft Corporation
+  svchost.exe		17,864 K	27,368 K	1332	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.03	37,524 K	53,440 K	1356	Host Process for Windows Services	Microsoft Corporation
+  RtkAudioService64.exe		3,208 K	6,744 K	1556	Realtek Audio Service	Realtek Semiconductor
+   RAVBg64.exe		16,596 K	13,780 K	1580	HD Audio Background Process	Realtek Semiconductor
+  svchost.exe	< 0.01	37,912 K	41,672 K	1632	Host Process for Windows Services	Microsoft Corporation
+  spoolsv.exe	< 0.01	11,768 K	18,600 K	1968	Spooler SubSystem App	Microsoft Corporation
+  svchost.exe		17,128 K	22,504 K	2004	Host Process for Windows Services	Microsoft Corporation
+  AdAppMgrSvc.exe	< 0.01	22,952 K	36,540 K	2072	Autodesk Desktop App	Autodesk Inc.
+  Connect.Service.ContentService.exe		70,268 K	72,520 K	2172	AutoCAD component	Autodesk, Inc.
+  OfficeClickToRun.exe	< 0.01	32,476 K	52,140 K	2376	Microsoft Office Click-to-Run (SxS)	Microsoft Corporation
+  FileSystemMonitor.WindowsService.exe	0.15	49,596 K	63,484 K	2432	FileSystemMonitor.WindowsService	Autodesk
+  FNPLicensingService64.exe		5,892 K	11,524 K	2532	Activation Licensing Service	Flexera Software LLC
+  LogiRegistryService.exe		2,304 K	5,844 K	2640	Logitech Surround Sound Service	Logitech Inc.
+  MSOIDSVC.EXE	0.01	10,128 K	19,992 K	2680	Microsoft® Microsoft Online Services ID Service	Microsoft Corp.
+   MSOIDSVCM.EXE		2,364 K	4,584 K	2764	Microsoft® Microsoft Online Services ID Service Monitor	Microsoft Corp.
+  pcas.exe	0.15	7,232 K	13,460 K	2748	pcas service	Alipay.com Inc. 
+  GameScannerService.exe	< 0.01	24,512 K	31,104 K	2860	GameScannerService	
+  svchost.exe		1,820 K	3,780 K	3048	Host Process for Windows Services	Microsoft Corporation
+  sqlwriter.exe		3,100 K	7,672 K	1004	SQL Server VSS Writer - 64 Bit	Microsoft Corporation
+  svchost.exe		5,288 K	9,828 K	2088	Host Process for Windows Services	Microsoft Corporation
+  UPService.exe		4,784 K	7,364 K	2284	UPSecurityInputService	中国银联股份有限公司
+   UPSecurityInput.exe	0.15	16,500 K	22,792 K	1828	UPSecurityInput	中国银联股份有限公司
+  taskhost.exe	< 0.01	19,032 K	25,968 K	3424	Host Process for Windows Tasks	Microsoft Corporation
+  svchost.exe		4,372 K	8,112 K	5524	Host Process for Windows Services	Microsoft Corporation
+  SearchIndexer.exe	< 0.01	65,540 K	57,256 K	6128	Microsoft Windows Search Indexer	Microsoft Corporation
+  svchost.exe		4,116 K	7,636 K	11184	Host Process for Windows Services	Microsoft Corporation
+  ASOvpnSvc.exe	< 0.01	5,624 K	2,752 K	16204	Astrill OpenVPN Service Helper	Astrill
+  svchost.exe		3,468 K	8,120 K	14300	Host Process for Windows Services	Microsoft Corporation
+  taskhost.exe		5,312 K	7,596 K	14856	Host Process for Windows Tasks	Microsoft Corporation
+  ASProxy.exe	0.68	16,468 K	17,872 K	17212		Astrill
+  taskhost.exe		8,544 K	15,800 K	20772	Host Process for Windows Tasks	Microsoft Corporation
+ lsass.exe	0.01	15,408 K	25,020 K	688	Local Security Authority Process	Microsoft Corporation
+ lsm.exe		4,324 K	7,700 K	700	Local Session Manager Service	Microsoft Corporation
+csrss.exe	0.41	17,112 K	72,748 K	620	Client Server Runtime Process	Microsoft Corporation
+ conhost.exe		2,636 K	5,020 K	7244	Console Window Host	Microsoft Corporation
+ conhost.exe	< 0.01	2,756 K	5,144 K	18960	Console Window Host	Microsoft Corporation
+ conhost.exe	< 0.01	2,752 K	5,112 K	7252	Console Window Host	Microsoft Corporation
+ conhost.exe	< 0.01	2,756 K	5,064 K	1812	Console Window Host	Microsoft Corporation
+ conhost.exe	< 0.01	2,760 K	5,108 K	20704	Console Window Host	Microsoft Corporation
+ conhost.exe	< 0.01	2,764 K	5,096 K	18044	Console Window Host	Microsoft Corporation
+ conhost.exe	< 0.01	2,772 K	5,028 K	17792	Console Window Host	Microsoft Corporation
+ conhost.exe	< 0.01	2,776 K	5,056 K	8620	Console Window Host	Microsoft Corporation
+ conhost.exe		2,780 K	5,028 K	2168	Console Window Host	Microsoft Corporation
+ conhost.exe		2,780 K	5,040 K	17012	Console Window Host	Microsoft Corporation
+ conhost.exe		2,784 K	4,972 K	13764	Console Window Host	Microsoft Corporation
+ conhost.exe	< 0.01	2,788 K	5,012 K	17240	Console Window Host	Microsoft Corporation
+winlogon.exe		3,844 K	8,868 K	760	Windows Logon Application	Microsoft Corporation
+ explorer.exe	1.00	148,336 K	168,308 K	17480	Windows Explorer	Microsoft Corporation
+  Revu.exe	0.01	1,085,364 K	1,100,212 K	17492	Bluebeam Revu	Bluebeam Software, Inc.
+  astrill.exe	0.05	74,488 K	38,460 K	20344	Astrill - Way to Stars	Astrill
+  WeChat.exe	0.02	102,772 K	126,532 K	19108	WeChat	Tencent
+   WeChatWeb.exe		32,372 K	21,812 K	17144	Tencent Browsing Service	
+  DesktopConnector.Applications.Tray.exe	0.04	135,440 K	162,724 K	20128	Autodesk Desktop Connector	Autodesk
+   AddInProcess.exe	0.01	32,068 K	34,632 K	13964	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	0.02	58,912 K	72,264 K	6752	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	0.03	44,420 K	63,564 K	11248	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	0.03	81,896 K	104,912 K	20712	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	0.02	44,056 K	63,140 K	10284	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	0.01	29,584 K	30,416 K	16532	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	0.02	31,904 K	35,892 K	20244	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	0.02	36,576 K	49,692 K	2744	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	0.01	50,140 K	51,204 K	18636	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	< 0.01	32,396 K	36,408 K	14312	AddInProcess.exe	Microsoft Corporation
+   AddInProcess.exe	0.01	32,416 K	36,100 K	12392	AddInProcess.exe	Microsoft Corporation
+RAVCpl64.exe		9,652 K	12,284 K	3924	Realtek HD Audio Manager	Realtek Semiconductor
+BBPrint.exe		2,512 K	5,320 K	3948	BBPrint Application	Bluebeam Software, Inc.
+RevitAccelerator.exe	0.01	91,744 K	117,280 K	3968	Revit Accelerator	Autodesk, Inc.
+LCore.exe	0.11	41,520 K	66,228 K	3580	Logitech Gaming Framework	Logitech Inc.
+ logitechg_discord.exe	< 0.01	21,728 K	28,168 K	6924	Logitech G Discord Applet	Logitech Inc.
+BitTitanDMAService.exe		5,316 K	10,400 K	3884	Device Management Service	BitTitan, Inc.
+ BitTitanDMAExecutor.exe	0.65	9,960 K	19,932 K	4296	Device Management Agent	BitTitan, Inc.
+  BitTitanDMAMachineHealthCheck.exe	< 0.01	9,324 K	17,956 K	4776	Device Management Machine Health Check	BitTitan, Inc.
+  BitTitanDMASoftwareHealthCheck.exe	< 0.01	8,804 K	17,276 K	4080	Device Management Software Health Check	BitTitan, Inc.
+CylanceUI.exe	< 0.01	49,636 K	14,524 K	4116	Cylance Protect	Cylance, Inc.
+iusb3mon.exe	< 0.01	3,108 K	7,012 K	4204	iusb3mon	Intel Corporation
+AutodeskDesktopApp.exe	< 0.01	13,380 K	32,028 K	4304	Autodesk Desktop App	Autodesk, Inc.
+ AcWebBrowser.exe	0.01	10,164 K	32,060 K	4632	Chromium host executable	Autodesk
+  AcWebBrowser.exe		32,268 K	30,868 K	5956	Chromium host executable	Autodesk
+  AcWebBrowser.exe		28,912 K	41,692 K	5564	Chromium host executable	Autodesk
+jusched.exe	< 0.01	7,016 K	17,548 K	4388	Java Update Scheduler	Oracle Corporation
+ jucheck.exe	< 0.01	7,844 K	17,944 K	2124	Java Update Checker	Oracle Corporation
+PulseSetupClient.exe	< 0.01	8,272 K	20,844 K	11648	Pulse Secure Setup Client	Pulse Secure, LLC
+ dsHostChecker.exe	0.01	53,988 K	67,792 K	10652	Host Checker"	Pulse Secure, LLC"
+esu.exe	0.18	29,556 K	32,840 K	7448	Garmin.Omt.Express.SelfUpdater	
+ tmp56C8.tmp.exe		3,708 K	6,648 K	5812	Garmin Express	Garmin Ltd or its subsidiaries
+  tmp56C8.tmp.exe		24,392 K	33,084 K	9160	Garmin Express	Garmin Ltd or its subsidiaries
+   GarminExpressInstaller.exe		4,748 K	9,624 K	3352	Garmin Express	Garmin Ltd or its subsidiaries
+Revit.exe	0.85	15,200,032 K	15,417,668 K	13428	Autodesk Revit	Autodesk, Inc.
+ acwebbrowser.exe	0.01	14,152 K	39,044 K	15012	Chromium host executable	Autodesk
+  acwebbrowser.exe	0.01	34,484 K	35,668 K	13524	Chromium host executable	Autodesk
+  acwebbrowser.exe	< 0.01	31,160 K	49,716 K	5372	Chromium host executable	Autodesk
+ CefSharp.BrowserSubprocess.exe		72,952 K	90,276 K	12220	CefSharp.BrowserSubprocess	The CefSharp Authors
+ RevitWorker.exe	0.16	230,912 K	282,640 K	8452	Autodesk Revit	Autodesk, Inc.
+ CefSharp.BrowserSubprocess.exe		84,884 K	101,772 K	2696	CefSharp.BrowserSubprocess	The CefSharp Authors
+OUTLOOK.EXE	0.01	323,960 K	397,964 K	10752	Microsoft Outlook	Microsoft Corporation
+ chrome.exe	0.03	126,232 K	197,388 K	4608	Google Chrome	Google Inc.
+  chrome.exe		3,536 K	7,208 K	18372	Google Chrome	Google Inc.
+  chrome.exe		4,328 K	8,520 K	7160	Google Chrome	Google Inc.
+  chrome.exe		20,080 K	28,912 K	16148	Google Chrome	Google Inc.
+  chrome.exe	0.07	176,268 K	214,656 K	18664	Google Chrome	Google Inc.
+  chrome.exe	< 0.01	47,492 K	65,432 K	15888	Google Chrome	Google Inc.
+  chrome.exe		116,104 K	132,692 K	21216	Google Chrome	Google Inc.
+  chrome.exe		86,432 K	129,072 K	7372	Google Chrome	Google Inc.
+  chrome.exe		35,368 K	48,396 K	14396	Google Chrome	Google Inc.
+  chrome.exe		15,592 K	22,524 K	21036	Google Chrome	Google Inc.
+Teams.exe	0.02	86,156 K	129,380 K	15440	Microsoft Teams	Microsoft Corporation
+ Teams.exe	< 0.01	77,344 K	92,824 K	8596	Microsoft Teams	Microsoft Corporation
+ Teams.exe	< 0.01	44,620 K	63,876 K	15604	Microsoft Teams	Microsoft Corporation
+ Teams.exe	0.02	306,732 K	320,036 K	18052	Microsoft Teams	Microsoft Corporation
+ Teams.exe	0.02	109,956 K	131,276 K	14820	Microsoft Teams	Microsoft Corporation
+lync.exe	< 0.01	237,236 K	263,820 K	10380	Skype for Business	Microsoft Corporation
+Spotify.exe	0.76	133,468 K	148,976 K	20592	Spotify	Spotify Ltd
+ Spotify.exe	< 0.01	34,740 K	20,952 K	15848	Spotify	Spotify Ltd
+ Spotify.exe	< 0.01	137,008 K	117,620 K	3356	Spotify	Spotify Ltd
+ Spotify.exe	0.02	147,828 K	191,256 K	856	Spotify	Spotify Ltd
+procexp64.exe	0.16	82,256 K	104,404 K	13792	Sysinternals Process Explorer	Sysinternals - www.sysinternals.com
+
